@@ -12,9 +12,8 @@ This project is based on the tutorial from Colt Steele's Web Development Bootcam
 
 ## Screenshots
 
-|  ![screencapture-127-0-0-1-5500-index-html-2023-12-02-18_34_53](https://github.com/SanjukaRavishan/test/assets/84403982/dfa5743a-c1d0-438d-b78a-549d3dd185c4)     | ![screencapture-127-0-0-1-5500-index-html-2023-12-02-18_36_49](https://github.com/SanjukaRavishan/test/assets/84403982/75d66915-8052-430f-9586-3f9078982f88)|
+|  ![screencapture-127-0-0-1-5500-index-html-2023-12-02-18_34_53](https://github.com/SanjukaRavishan/MuseumOfCandy-BootstrapProject/blob/main/img/screenshots/screencapture-127-0-0-1-5500-index-html-2023-12-02-18_34_53.png?raw=true) | ![screencapture-127-0-0-1-5500-index-html-2023-12-02-18_36_49](https://github.com/SanjukaRavishan/MuseumOfCandy-BootstrapProject/blob/main/img/screenshots/screencapture-127-0-0-1-5500-index-html-2023-12-02-18_36_49.png?raw=true)  |
 | ----------- | ----------- |
-
 
 ## Live Demo
 
